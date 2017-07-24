@@ -1,264 +1,252 @@
 Data & Analytics Framework
 ==========================
 
-Il *Data & Analytics Framework* (DAF) fa parte delle attività atte a
-valorizzare il patrimonio informativo pubblico nazionale. Il DAF ha
-l'obiettivo di sviluppare e semplificare l'interoperabilità dei dati
-pubblici tra PA, standardizzare e promuovere la diffusione degli *open
-data*, ottimizzare i processi di analisi dati e generazione di
-conoscenza. L’idea è quella di aprire il mondo della Pubblica
-amministrazione ai benefici offerti dalle moderne piattaforme per la
-gestione e l’analisi dei *big data*, agendo lungo quattro direttrici
-principali:
+The *Data & Analytics Framework* (DAF) is part of the activities aimed
+at enhancing the national public information heritage. DAF aims to
+develop and simplify the interoperability of public data between PAs,
+standardize and promote the dissemination of *open data*, optimize data
+analysis processes and generate knowledge. The idea is to open the world
+of public administration to the benefits offered by modern platforms for
+managing and analysing *big data*, acting in four main directions:
 
--  amplificare sensibilmente il valore del patrimonio informativo della
-   PA mediante l'utilizzo delle tecnologie big data che consentono di
-   creare conoscenza per i *decision maker* e ridurre drasticamente i
-   tempi di analisi. La scalabilità orizzontale di queste tecnologie
-   permette, infatti, di estrarre informazioni dall'incrocio di
-   molteplici basi di dati e di processare dati *real-time* consentendo
-   di avere più prospettive di analisi su un dato fenomeno, in maniera
-   tempestiva;
+-  To significantly amplify the value of the information assets of the
+   PA through the use of the big data technologies that help to create
+   knowledge about the *decision makers* and drastically reduce the time
+   of analysis. Horizontal scalability of these technologies can, in
+   fact, extract information from the intersection of multiple data
+   bases and process data in *real-time* allowing you to have more
+   prospects of analysis on a given phenomenon, in a timely fashion;
 
--  favorire e ottimizzare lo scambio dei dati tra PA minimizzandone i
-   costi transattivi per l'accesso e l'utilizzo. Sarà infatti possibile
-   superare lo schema delle convenzioni uno a uno che portano a
-   molteplici copie degli stessi dati e consentire un accesso
-   standardizzato ad un dato sempre aggiornato;
+-  Foster and optimize data exchange between PAs, minimizing
+   transactional costs for access and use. It will be possible to
+   overcome the one-to-one conventions scheme, which lead to multiple
+   copies of the same data and allow standardized access to an
+   ever-updated data;
 
--  incentivare la diffusione degli *open data* e renderne più efficace
-   l'utilizzo. Il DAF, infatti, consente di centralizzare e
-   redistribuire i dati pubblici attraverso API, garantendo
-   standardizzazione di formati e modalità di riutilizzo su dati sempre
-   aggiornati;
+-  To encourage the diffusion of *open data* and make it more effective.
+   DAF, in fact, allows centralized and redistributed public data
+   through APIs, ensuring standardization of formats and ways of reusing
+   them on up-to-date data;
 
--  favorire l'analisi esplorativa dei dati da parte di team di *data
-   scientist*, sia in seno alle singole PA che a livello centrale, al
-   fine di migliorare la conoscenza dei fenomeni sociali. Le tecniche di
-   analisi utilizzate consentiranno anche lo sviluppo di applicazioni
-   "intelligenti" che sfruttino le regolarità nei dati per offrire
-   servizi a cittadini, imprese e Pubbliche amministrazioni;
+-  Foster explorational data analysis by teams of *data scientists*,
+   both within the PA and at the central level, in order to improve
+   knowledge of social phenomena. The analysis techniques used will also
+   allow the development of "intelligent" applications that take
+   advantage of regularity in data to provide services to citizens,
+   businesses and public administrations;
 
--  infine, il *framework* consentirà la promozione di iniziative di
-   ricerca scientifica su tematiche di interesse specifico per la PA,
-   favorendo la collaborazione con università ed enti di ricerca.
+-  Finally, the *framework* will allow the promotion of scientific
+   research initiatives on issues of particular interest to the PA,
+   encouraging collaboration with universities and research bodies.
 
-Il DAF sarà strutturato in conformità con quanto definito nel CAD e nel
-Modello di interoperabilità, nelle Infrastrutture immateriali e in
-coerenza con le esigenze relative alle funzioni di monitoraggio del
-Piano.
+The DAF will be structured in accordance with what is defined in the CAD
+and Interoperability Model, in Intangible Infrastructures and
+consistency with the requirements related to the Monitoring Functions of
+the Plan.
 
-Il DAF si basa su una **Piattaforma big data**, composta da: un *data
-lake*, un insieme di *data engine* e strumenti per la comunicazione dei
-dati.
+The DAF is based on a **big date platform**, composed of: a *data lake,*
+a set of *data engines* and tools for data communication.
 
-Nel *data lake* vengono memorizzati, nel rispetto delle normative in
-materia di protezione dei dati personali, dati di potenziale interesse
-quali, ad esempio: (i) le basi di dati che le PA generano per svolgere
-il proprio mandato istituzionale; (ii) i dati generati dai sistemi
-informatici delle Pubbliche amministrazioni come log e dati di utilizzo
-che non rientrano nella definizione precedente; (iii) i dati autorizzati
-provenienti dal web e dai social network di potenziale interesse della
-Pubblica amministrazione.
+In the *data lake* personal data such as: (i) data bases that PA
+generates in order to carry out its institutional mandate, in compliance
+with personal data protection regulations; (ii) data generated by Public
+Administration's IT systems such as logs and usage data that do not fall
+under the previous definition; (iii) authorized data from the web and
+social networks of potential public interest, are stored.
 
-I *Big Data Engine* sono utili ad armonizzare ed elaborare, sia in
-modalità *batch* che *real-time*, i dati grezzi memorizzati nel *data
-lake* e a implementare modelli di *machine learning*.
+The *Big Data Engines* are useful for harmonizing and processing, both
+in *batch* mode and *real-time*, the raw data stored in the *Data lake,*
+and implementing models of *machine learning*.
 
-Infine gli strumenti per la comunicazione dei dati sono utili a favorire
-la fruizione dei dati elaborati da parte dei soggetti interessati, anche
-attraverso API che espongono dati e funzionalità ad applicazioni terze.
+Lastly, data communication tools are useful in favouring the use of data
+processed by stakeholders, including through APIs that display data and
+functionality to third-party applications.
 
-La realizzazione e la successiva gestione del DAF è affidata al
-**BDT-PA**, ovvero *Big Data Team della PA*, un team composto da *data
-scientist*, *big data architect* ed esperti di dominio che provvedono
-al disegno e all’evoluzione concettuale della Piattaforma *big data*,
-alla costruzione di modelli di interconnessione delle diverse sorgenti
-dati, all’analisi dei dati, allo sviluppo di modelli di *machine
-learning*, al coordinamento dello sviluppo di *data application* e
-all’organizzazione di “competizioni” scientifiche su tematiche di
-interesse per la PA .
+The implementation and subsequent management of the DAF is entrusted to
+**the BDT-PA**, or *PA's Big Data Team*, a team consisting of *Data
+scientists*, *Big data* *architects* and domain experts who provide the
+conceptual design and evolution of the *Big data* platform, the
+construction of interconnection models of different data sources, data
+analysis, and development of *machine learning*, the coordination of the
+development of *Data applications* and the organisation of scientific
+"competitions" on issues of interest to the PA.
 
-Scenario attuale
-----------------
+The current situation
+---------------------
 
-Ad oggi non esiste nella Pubblica amministrazione un *framework* di
-analisi, standardizzazione e interscambio dei dati pubblici che
-favorisca, al contempo, la definizione e il monitoraggio di politiche
-*data-driven*. Già a partire dal 2013, AgID ha verificato la possibilità
-di utilizzare tale tipologia di strumenti nello specifico dominio della
-Pubblica amministrazione per mezzo di numerose iniziative sperimentali
-condotte in collaborazione con enti di ricerca nazionali e con varie
-università italiane, nell’ambito del progetto *Italia.gov.it*, il motore
-dell’amministrazione digitale.
+To date there is no public administration *framework* of analysis,
+standardization and interchange of public data, which favours the
+definition and monitoring of *data-driven* policies at the same time.
+Already from 2013, AgID has verified the possibility of using this type
+of tools in the specific domain of Public Administration through
+numerous experimental initiatives conducted in collaboration with
+national research institutes and various Italian universities within the
+project *Italia.gov.it,* the digital administration engine.
 
-Negli ultimi anni, le tecnologie *big data* sono maturate a tal punto da
-essere utilizzate non solo negli ambienti di produzione delle maggiori
-aziende IT (ad es. Google, Facebook, Twitter, Linked-In), ma anche in
-quelli di banche, società di assicurazione, operatori di lotterie e
-scommesse, società di trading. Conseguentemente sono emersi nuovi
-profili professionali come il *data scientist* e il *big data
-architect*, le cui competenze sono da considerarsi necessarie per il
-governo e l’uso delle piattaforme di *big data*.
+In recent years, big data technologies have matured to such an extent
+that they are used not only in the production environments of major IT
+companies (e.g. Google, Facebook, Twitter, Linked-In), but also those of
+banks, insurance companies, lotteries and betting operators, trading
+companies. Consequently, new professional profiles have emerged, such as
+*Data scientists* and the *Big data architects*, whose skills are
+considered to be necessary for the governance and the use of *Big data*.
 
-Per quanto riguarda lo scambio di dati tra le PA, lo scenario attuale
-vede ancora diffusa la pratica di stipule di convenzioni o di accordi
-diretti tra PA per regolare lo scambio di dati necessari per lo
-svolgimento di attività istituzionali. Tale pratica non risulta
-scalabile e pone limiti alla condivisione dell'informazione del settore
-pubblico.
+As regards the exchange of data between PAs, the present scenario still
+sees the widespread practice of direct accords and agreements between
+PAs to regulate the exchange of data necessary for the conduct of
+institutional activities. This practice is not scalable and limits the
+sharing of public sector information.
 
-Obiettivi strategici
+Strategic objectives
 --------------------
 
--  Valorizzare il patrimonio di informazioni della Pubblica
-   amministrazione facilitando l'accesso ai dati da parte delle PA e
-   favorendo la costituzione di team agili di analisi sia centrali che
-   federati.
+-  Enhance the wealth of public administration information by
+   facilitating access to data by PAs and encouraging the creation of
+   both central and federated analysis teams.
 
--  Puntare su qualità e standardizzazione dei dati. Il DAF, infatti, è
-   lo strumento operativo che consente di implementare in maniera
-   coordinata gli sforzi descritti nel paragrafo 4.1 “Dati della PA”,
-   ponendo attenzione sui processi di generazione, gestione,
-   aggiornamento e diffusione dei dati.
+-  Focus on quality and standardization of data. DAF, in fact, is the
+   operational tool that allows to coordinate the efforts described in
+   paragraph 4.1 "PA Data", focusing on the processes of generation,
+   management, updating and dissemination of data.
 
--  Agevolare lo sviluppo e la diffusione degli open data e della *API
-   economy*, attraverso i quali la società civile può riutilizzare, nel
-   rispetto della legge, il patrimonio di informazioni pubbliche e
-   creare nuove opportunità di business. A tal fine, il DAF permetterà
-   di sviluppare API standardizzate su basi di dati sempre aggiornate,
-   per favorire la costruzione di applicazioni e servizi al cittadino.
+-  Facilitate the development and diffusion of open data and *API
+   economy*, through which civil society can reuse, in compliance with
+   the law, the wealth of public information and create new business
+   opportunities. To this end, DAF will develop standardized APIs on
+   up-to-date databases to help build applications and services to the
+   citizen.
 
--  Incentivare le collaborazioni con università ed enti di ricerca. Si
-   darà loro accesso a *sandbox* contenenti campioni significativi dei
-   dati opportunamente anonimizzati, per dare stimolo alla ricerca e
-   creare conoscenza utile per la collettività.
+-  Encourage collaborations with universities and research bodies. They
+   will be given access to a *sandbox* containing meaningful samples of
+   appropriately anonymized data, to stimulate research and create
+   useful knowledge for the community.
 
--  Favorire lo scambio di dati tra Pubbliche amministrazioni superando
-   le limitazioni dell'attuale pratica di modalità di accesso ai dati
-   basata su convenzioni tra singole amministrazioni.
+-  Encourage data exchange between Public Administrations, overcoming
+   the limitations of the current practice of access to data based on
+   conventions between individual administrations.
 
--  Razionalizzare le risorse impegnate nello scambio di dati e in
-   iniziative di *analytics*, inclusi *data warehouse* e *business
-   intelligence*. Tali iniziative, spesso non coordinate, sono di
-   frequente caratterizzate da alti costi di licenze e hardware dedicato
-   e hanno un'elevata tendenza a rispondere molteplici volte allo stesso
-   bisogno.
+-  Rationalize the resources involved in data exchange and in
+   *analytics*, including *Data warehouse* and *Business intelligence*.
+   These initiatives, often uncoordinated, are often characterized by
+   high licensing costs and hardware and they have a high tendency to
+   respond many times to the same need.
 
--  Offrire strumenti che misurino in maniera puntuale e tempestiva gli
-   stati di avanzamento dell’attuazione del Piano e che permettano di
-   individuare azioni integrative o correttive sulla base di logiche
-   *data-driven*.
+-  Provide tools that measure in a timely manner the progress of the
+   implementation of the Plan and allow integrative or corrective
+   actions based on *data-driven* logic to be identified.
 
-Linee di azione
+Lines of action
 ---------------
 
-Il *DAF*, come detto, si basa sullo sviluppo di una Piattaforma *big
-data* e sulla costituzione di un team di *data scientist*, *big data
-architect* e *data engineer*. Il *Big Data Team* della PA, istituito
-all'interno del Team digitale, ha il compito di gestire attivamente la
-fase di sviluppo concettuale e implementativo dell'infrastruttura,
-insieme a tutte le fasi del ciclo di vita del dato, dall'ingestione
-all'analisi e sviluppo di applicazioni. Inoltre, BDT-PA svilupperà
-partnership tecnologiche e di progetto tra le PA coinvolte.
+The *DAF,* as said, is based on the development of a *Big data* platform
+and on the establishment of a team of *Data scientists, big data
+architects* and *Data engineers*. The *Big Data Team of* the PA, set up
+within the Digital Team, has the task of actively managing the phase of
+conceptual and implementation development of the infrastructure, along
+with all phases of the life cycle of the data, from ingestion to
+analysis and application development. In addition, BDT-PA will develop
+technology and project partnerships between the PAs involved.
 
-Il BDT-PA progetta e definisce le modalità realizzative e di uso della
-Piattaforma *big data* della PA attraverso:
+The BDT-PA designs and defines the implementation and use of the PA big
+data platform by:
 
--  l’individuazione del modello di governance che preveda un ruolo di
-   guida e controllo da parte del Team digitale, in collaborazione con
-   AgID e sentito il Garante della privacy;
+-  Identifying the governance model that provides a leadership and
+   control role by the Digital Team, in collaboration with AgID and
+   paying attention to Privacy;
 
--  la pianificazione degli eventuali adeguamenti normativi che
-   favoriscano la realizzazione del progetto;
+-  Planning any regulatory adjustments that would facilitate the
+   implementation of the project;
 
--  la definizione delle sorgenti di dati del *data lake* e le relative
-   modalità di popolamento. Queste saranno inserite nelle linee guida
-   prodotte nell’ambito del Modello di interoperabilità;
+-  The definition of the data sources of the *Data lake* and their
+   modalities of population. These will be included in the guidelines
+   produced under the Interoperability Model;
 
--  la definizione dell’architettura logica della piattaforma e
-   l'individuazione delle tecnologie implementative;
+-  The definition of the logical architecture of the platform and the
+   identification of implementing technologies;
 
--  l’identificazione delle esigenze informative utili alla definizione
-   di *data driven policy* e alla realizzazione dei relativi strumenti
-   analitici;
+-  The identification of information needs useful to the definition of
+   *Data driven policy* and the realization of related analytical tools;
 
--  l’uso di *cloud* pubblico e privato per *storage* e *computing*;
+-  The use of public and private *cloud* for *storage* and computing;
 
--  il coinvolgimento della comunità scientifica per la promozione di
-   iniziative atte a favorire la conduzione di attività ricerca su
-   tematiche di interesse per la PA;
+-  The involvement of the scientific community for the promotion of
+   initiatives aimed at conducting research activities on issues of
+   interest to the PA;
 
--  le direttive di utilizzo e consultazione.
+-  The usage and consultation directives.
 
-Nei prossimi mesi, il BDT-PA rilascerà il Piano di sviluppo del DAF.
-Esso prevedrà un *roll-out* incrementale in base agli accordi con le PA
-che il Team digitale sta implementando. In particolare sarà prevista una
-fase di sperimentazione che interesserà un gruppo di PA centrali e
-locali selezionate e avrà l'obiettivo di realizzare modelli di scambio
-dati e casi di utilizzo con servizi per le PA, cittadini e imprese.
+Over the next few months, BDT-PA will release the DAF Development Plan.
+It will provide an *incremental roll-out* based on the agreements with
+the PA that the Digital Team is implementing. In particular, a phase of
+experimentation will be planned which will involve a group of selected
+central and local PAs and will have the objective to develop data
+exchange models and use cases with services for PAs, citizens and
+businesses.
 
-I dati presenti nel DAF saranno utilizzati anche per sintetizzare
-conoscenza utile alle attività di monitoraggio descritte nel capitolo 10
-“Gestione del Cambiamento”: a tal riguardo AgID e il Team digitale
-predisporranno strumenti che andranno a complementare il kit di
-strumenti descritti nella linea di azione “Strumenti per il monitoraggio
-dell’attuazione del Piano” del citato capitolo 10.
+The data in the DAF will also be used to synthesise useful knowledge of
+the monitoring activities described in Chapter 10 "Management of
+Change": in this regard, AgID and the Digital Team will provide tools
+that will complement the tool kit described in the action line " Tools
+for Monitoring the Implementation of the Plan "of Chapter 10.
 
-+---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Oggetto       | Definizione e realizzazione del piano di sviluppo della fase di sperimentazione del *Data & Analytics Framework*                                                                                                                                                                                                                                                       |
-+---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tempi         | Entro dicembre 2017                                                                                                                                                                                                                                                                                                                                                    |
-+---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID, Team digitale                                                                                                                                                                                                                                                                                                                                                    |
-+---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Individuazione del modello di governance del DAF e delle PA che faranno parte della fase di sperimentazione. Definizione dell’architettura della piattaforma e della sua roadmap di evoluzione. Definizione dei casi d'uso per lo sviluppo di servizi per Pubbliche amministrazioni, cittadini e imprese. Questa attività è coordinata con il Garante della privacy.   |
-|               |                                                                                                                                                                                                                                                                                                                                                                        |
-|               | Realizzazione dell’infrastruttura tecnologica, coerentemente con il piano di sviluppo della fase di sperimentazione del DAF, che implementa tutte le componenti necessarie per il funzionamento della Piattaforma.                                                                                                                                                     |
-+---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Piano di sviluppo del DAF (*data di rilascio: giugno 2017*).                                                                                                                                                                                                                                                                                                           |
-|               | Cluster big data e Test delle componenti e dei casi d'uso (*data di rilascio: dicembre 2017*).                                                                                                                                                                                                                                                                         |
-+---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Subject       | Definition and implementation of the development plan of the experimental phase of the *Data & Analytics Framework*                                                                                                                                                                                                                      |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time Frames   | By December 2017                                                                                                                                                                                                                                                                                                                         |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Players       | AgID, Digital Team                                                                                                                                                                                                                                                                                                                       |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description   | Identify the governance model of the DAF and the PAs that will be part of the testing phase. Defining the platform architecture and its evolutionary roadmap. Definition of use cases for the development of services for Public Administrations, Citizens and Businesses. This activity is coordinated with the Guarantee of Privacy.   |
+|               |                                                                                                                                                                                                                                                                                                                                          |
+|               | Implementation of the technological infrastructure, consistent with the development plan of the DAF pilot phase, which implements all the components necessary for the operation of the Platform.                                                                                                                                        |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Result        | DAF Development Plan (*Release date: June 2017*).                                                                                                                                                                                                                                                                                        |
+|               |                                                                                                                                                                                                                                                                                                                                          |
+|               | Big Data Cluster and Component Testing and Use Cases (*Release date: December 2017*).                                                                                                                                                                                                                                                    |
++---------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Oggetto       | Ingestione dei dati nel DAF - Fase sperimentale                                                                                                                                                                                  |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tempi         | Da giugno 2017 a dicembre 2017                                                                                                                                                                                                   |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | PA, AgID, Team digitale                                                                                                                                                                                                          |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Definizione delle basi di dati da inserire nel progetto in fase sperimentale e messa in esercizio delle procedure di estrazione e ingestione. Definizione dei rapporti tra il gestore del DAF e le PA aderenti all'iniziativa.   |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Regolazione dei rapporti con le PA.                                                                                                                                                                                              |
-|               | Definizione standard operativi nel rispetto delle norme sulla privacy.                                                                                                                                                           |
-|               | Definizione delle procedure di ingestione dei dati nella piattaforma.                                                                                                                                                            |
-|               | Alimentazione del DAF (*data di rilascio: dicembre 2017*).                                                                                                                                                                       |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Subject       | Data Ingestion in the DAF - Experimental Phase                                                                                                                                                                                                  |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time Frames   | From June 2017 to December 2017                                                                                                                                                                                                                 |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Players       | AgID, Digital Team                                                                                                                                                                                                                              |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description   | Definition of the data to be included in the project during the experimental phase and putting into operation the extraction and ingestion procedures. Defining the relations between the DAF manager and the PAs involved in the initiative.   |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Result        | Regulating relationships with PAs.                                                                                                                                                                                                              |
+|               |                                                                                                                                                                                                                                                 |
+|               | Standard operational definition in compliance with privacy standards.                                                                                                                                                                           |
+|               |                                                                                                                                                                                                                                                 |
+|               | Definition of data ingestion procedures in the platform.                                                                                                                                                                                        |
+|               |                                                                                                                                                                                                                                                 |
+|               | Supply of DAF (release date: December 2017).                                                                                                                                                                                                    |
++---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Oggetto       | Messa in Produzione del DAF                                                                                                                                                                                                                                         |
-+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tempi         | Da gennaio 2018                                                                                                                                                                                                                                                     |
-+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | Team digitale, AgID, PA                                                                                                                                                                                                                                             |
-+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Il Team digitale e AgID predisporranno le procedure atte al subentro del futuro *owner* del DAF che gestirà l'operatività e l'evoluzione del progetto.                                                                                                              |
-|               |                                                                                                                                                                                                                                                                     |
-|               | L'*owner* del DAF curerà le interazioni con le PA per definire piani di inclusione delle relative basi di dati e casi d'uso. Le PA di volta in volta coinvolte definiranno le modalità di ingestione dei dati e utilizzo del DAF consone alle proprie attività.     |
-+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Piano di subentro.                                                                                                                                                                                                                                                  |
-|               | Operatività corrente (*data di rilascio: da definire*).                                                                                                                                                                                                             |
-+---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Subject       | Putting DAF into Production                                                                                                                                                                                           |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time Frames   | From January 2018                                                                                                                                                                                                     |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Players       | Digital Team, AgID, PA                                                                                                                                                                                                |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description   | The Digital Team and AgID will set up procedures for the future *owner* of the DAF that will manage the operation and evolution of the project.                                                                       |
+|               |                                                                                                                                                                                                                       |
+|               | The *owner* of DAF will take care of interactions with PAs to define plans for incorporating their databases and usage cases. PAs from time to time will define how to ingest data and how DAF uses its activities.   |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Result        | Substitute plan.                                                                                                                                                                                                      |
+|               |                                                                                                                                                                                                                       |
+|               | Current operation (release date: to be defined).                                                                                                                                                                      |
++---------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Oggetto       | Realizzazione strumenti di supporto al monitoraggio del Piano                                                                                                                                                                    |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Tempi         | Da aprile 2017                                                                                                                                                                                                                   |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Attori        | AgID e Team digitale                                                                                                                                                                                                             |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descrizione   | Il Team digitale e AgID realizzano strumenti che, sulla base delle informazioni contenute nel DAF, forniscono informazioni utili alle attività di monitoraggio del Piano descritte nel capitolo 10 “Gestione del Cambiamento”.   |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Risultato     | Strumenti di supporto al monitoraggio del Piano *(da gennaio 2018)*                                                                                                                                                              |
-+---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
++---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Subject       | Implementation of support tools for monitoring the Plan                                                                                                                                                 |
++---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Time Frames   | From April 2017                                                                                                                                                                                         |
++---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Players       | AgID, Digital Team                                                                                                                                                                                      |
++---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Description   | The Digital Team and AgID provide tools that, based on the information contained in the DAF, provide useful information for the Plan monitoring activities described in Chapter 10 "Managing Change".   |
++---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Result        | Plan Monitoring Support Tools *(Since January 2018)*                                                                                                                                                    |
++---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

@@ -14,6 +14,11 @@ THREE-YEAR PLAN FOR IT IN PUBLIC ADMINISTRATION 2017 - 2019
    doc/06_ecosystems.rst
    doc/07_instruments-for-the-generation-and-the-spread-of-digital-services.rst
    doc/08_security.rst
+   doc/09_data-analytics-framework.rst
+   doc/10_management-of-the-change.rst
+   doc/11_rationalisation-of-costs.rst
+   doc/12_indications-for-the-public-administrations.rst
+   doc/13_principles-for-the-development-of-digital-projects.rst
 
 PART ONE - FRAMEWORK OF REFERENCE
 :::::::::::::::::::::::::::::::::::
@@ -36,3 +41,24 @@ PART TWO - COMPONENTS OF THE MODEL ICT EVOLUTION STRATEGY
    doc/06_ecosystems.rst
    doc/07_instruments-for-the-generation-and-the-spread-of-digital-services.rst
    doc/08_security.rst
+   doc/09_data-analytics-framework.rst
+   doc/10_management-of-the-change.rst
+
+PART THREE - FINAL CONSIDERATIONS AND GUIDANCE NOTES
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+.. toctree::
+   :maxdepth: 3
+
+   doc/11_rationalisation-of-costs.rst
+   doc/12_indications-for-the-public-administrations.rst
+   doc/13_principles-for-the-development-of-digital-projects.rst
+
+APPENDICES
+::::::::::
+
+.. toctree::
+   :maxdepth: 3
+
+   doc/appendices/acronyms.rst
+   doc/appendices/glossary.rst
