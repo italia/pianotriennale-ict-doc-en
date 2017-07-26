@@ -53,7 +53,7 @@ connectivity.
 Data centres and *cloud*
 ------------------------
 
- The current situation
+The current situation
 ~~~~~~~~~~~~~~~~~~~~~~
 
 As established by
@@ -351,7 +351,7 @@ Market Provider).
 |               |                                                                                                                                                                                                                                                                                 |
 |               | The PA executes the indications defining its own rationalisation plans that, upon request, must be provided to AgID. Rationalisation actions are checked by AgID through the annual census of PA ICT assets.                                                                    |
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Result        | Guidelines for the rationalisation of the ICT assets of Public Administrations *(First release date: January 2018) *                                                                                                                                                            |
+| Result        | Guidelines for the rationalisation of the ICT assets of Public Administrations *(First release date: January 2018)*                                                                                                                                                             |
 |               |                                                                                                                                                                                                                                                                                 |
 |               | ICT assets rationalisation Plan for PA *(From February 2018 to April 2018)*                                                                                                                                                                                                     |
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -524,8 +524,6 @@ In any case, in the choice of connectivity services, PAs should
 prioritise supplies where the transport service is based on *dual-stack*
 (IPv4 and IPv6).
 
-***
-***
 
 +---------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Subject       | Publication and adaptation to the Guidelines for the Implementation of public *Wi-Fi* networks                                                                                                                                                   |

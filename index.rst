@@ -1,6 +1,13 @@
 THREE-YEAR PLAN FOR IT IN PUBLIC ADMINISTRATION 2017 - 2019
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+**This document was translated by a machine.**
+
+We want to make our country more efficient. We believe humans and machines should complement each other. Artificial Intelligence is the technology that will enable such symbiosis.
+This document has been translated using a mix of state-of-the-art machine translation and human-driven AI. The raw machine translation output has been edited by an automated system trained on millions of professionally corrected sentences. Finally, a human went through the document to make sure that no information had been lost.
+
+This means leaving behind some stylistic improvements and potential errors. However, this AI-augmented approach to translation allowed us to prepare this English version at a fraction of the cost and time of the legacy translation process.
+
 .. toctree::
    :maxdepth: 3
    :numbered:
@@ -62,3 +69,13 @@ APPENDICES
 
    doc/appendices/acronyms.rst
    doc/appendices/glossary.rst
+
+ANNEXES
+:::::::
+
+- :download:`Annex 1 - Reference framework of the three-year plan <doc/annexes/annex-1.pdf>`
+- :download:`Annex 2 - Tools and resources for the implementation of the Plan <doc/annexes/annex-2.pdf>`
+- :download:`Annex 3 - Synoptic framework of CPA ICT spending <doc/annexes/annex-3.pdf>`
+- :download:`Annex 4 - Synoptic framework of CPA projects with respect to the Model <doc/annexes/annex-4.pdf>`
+- :download:`Annex 5 - Open data dataset basket <doc/annexes/annex-5.pdf>`
+

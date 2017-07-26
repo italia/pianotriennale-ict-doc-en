@@ -109,8 +109,7 @@ The Electronic Health Record).
 .. figure:: media/figure8.png
    :width: 100%
 
-   Figure 8 - Exemplifying dependencies between the different levels to
-provide services to citizens and businesses
+   Figure 8 - Exemplifying dependencies between the different levels to provide services to citizens and businesses
 
 
 For the management of the Plan, AgID has established:
