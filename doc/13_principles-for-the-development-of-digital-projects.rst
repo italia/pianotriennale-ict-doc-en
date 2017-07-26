@@ -112,7 +112,10 @@ completion of the product, these steps may be subject to changes
 throughout the course of the work, based on the results obtained and the
 measures of success identified.
 
-|image11|
+.. figure:: media/figure11.png
+   :width: 100%
+
+   Figure 11 - Agile Development Methodology
 
 From a technical point of view, it is also necessary:
 

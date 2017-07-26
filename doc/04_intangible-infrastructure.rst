@@ -24,8 +24,13 @@ shown in Figure 6:
 -  PA data, i.e. activities related to databases of national interest,
    open data and controlled vocabularies;
 
--  |image6|\ The Enabling Platforms, that is, platforms shared at
+-  The Enabling Platforms, that is, platforms shared at
    national level by PAs.
+
+.. figure:: media/figure6.png
+   :width: 100%
+
+   Figure 6 - Components of intangible infrastructures
 
 Public Administration Data 
 ---------------------------

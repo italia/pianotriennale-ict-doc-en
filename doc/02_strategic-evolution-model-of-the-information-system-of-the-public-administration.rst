@@ -91,7 +91,10 @@ Map of the Strategic Model
 The Strategic Model can be schematically represented by the graphic map
 illustrated in Figure 3.
 
-|\\\\10.3.14.3\\translated\\projects\\2017\\2017-06-16-piano\_triennale-teamdigitale-17605664\\300\_delivery\_to\_customer\\Immagini\\ruben\\Imm\_23.jpg|
+.. figure:: media/figure3.png
+   :width: 100%
+
+   Figure 3 - Map of the Strategic Evolution Model of the PA Information System
 
 It is important to point out that Map is to be understood as the
 representation of macro areas that aggregate the homogeneous elements
@@ -217,10 +220,10 @@ The purpose of the map is to:
 The components of the map will be described in more detail in Part Two
 of the Plan.
 
-.. figure:: media/figura4.svg
+.. figure:: media/figure4.png
    :width: 100%
 
-   Figura 4 - Mappa di dettaglio del Modello strategico di evoluzione del sistema informativo della PA
+   Figure 4 - PA Information System's Strategic Evolution Model Detail Map
 
 .. rubric:: Notes
 

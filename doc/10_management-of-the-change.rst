@@ -106,10 +106,12 @@ involving national level bodies, can contribute, in a cooperative logic,
 to the provision of services to citizens by other administrations (e.g.
 The Electronic Health Record).
 
-|\\\\10.3.14.3\\translated\\projects\\2017\\2017-06-16-piano\_triennale-teamdigitale-17605664\\300\_delivery\_to\_customer\\Immagini\\ruben\\Imm\_18.jpg|
+.. figure:: media/figure8.png
+   :width: 100%
 
-Figure 8 - Exemplifying dependencies between the different levels to
+   Figure 8 - Exemplifying dependencies between the different levels to
 provide services to citizens and businesses
+
 
 For the management of the Plan, AgID has established:
 

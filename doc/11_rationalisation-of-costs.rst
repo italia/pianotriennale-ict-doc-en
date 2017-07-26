@@ -78,8 +78,12 @@ quantifiable as:
 As a result, the current "aggravating" expenditure for spending review
 purposes amounts to approximately € 1.7 billion.
 
-|\\\\10.3.14.3\\translated\\projects\\2017\\2017-06-16-piano\_triennale-teamdigitale-17605664\\300\_delivery\_to\_customer\\Immagini\\ruben\\Imm\_17.jpg|\ Based
-on these elements, the starting point for defining the savings target to
+.. figure:: media/figure9.png
+   :width: 100%
+
+   Figure 9 - AgID Processing based on internal surveys and 3rd Assinform Observatory data on ICT in Public Administration
+
+Based on these elements, the starting point for defining the savings target to
 be achieved at the end of the three-year period 2016-2018 is therefore
 as represented in Figure 9, and is quantifiable at about € 0.8 billion,
 corresponding to 50% of current spending. This objective is to be
@@ -207,10 +211,10 @@ target):
    recently stipulated by Consip for the next five years provide
    spending limits of over 6,000 mln.
 
-|\\\\10.3.14.3\\translated\\projects\\2017\\2017-06-16-piano\_triennale-teamdigitale-17605664\\300\_delivery\_to\_customer\\Immagini\\ruben\\Imm\_16.jpg|
+.. figure:: media/figure10.png
+   :width: 100%
 
-Figure 10 - AgID projection on internal data and 3rd Assinform
-Observatory data on ICT in Public Administration
+   Figure 10 - AgID projection on internal data and 3rd Assinform Observatory data on ICT in Public Administration
 
 The above set of assumptions and findings will be verified in the next
 Recognition of Expenditure Data, which will track the progress of the

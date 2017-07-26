@@ -56,11 +56,16 @@ transformation in the country, i.e. all citizens and businesses.
 Context
 -------
 
-|image1|\ The three-year plan is built on the basis of a Strategic Model
+The three-year plan is built on the basis of a Strategic Model
 for the evolution of the Public Administration Information System [3]_
 (illustrated in Chapter 2 "Strategic Model for the Evolution of the
 Public Administration Information System") and addresses the competition
 plan, funding plan and three-year plans of individual PAs.
+
+.. figure:: media/figure1.png
+   :width: 100%
+
+   Figure 1 - Input and Output of the Three-Year Plan
 
 The Plan proposes a systematic, distributed and shared model of
 management and use of the most innovative digital technologies,
@@ -286,9 +291,10 @@ Figure 2 highlights the relationships between these players and sums up
 their functions with respect to the definition and implementation of the
 Plan:
 
-|\\\\10.3.14.3\\translated\\projects\\2017\\2017-06-16-piano\_triennale-teamdigitale-17605664\\300\_delivery\_to\_customer\\Immagini\\ruben\\Imm\_24.jpg|
+.. figure:: media/figure2.png
+   :width: 100%
 
-Figure 2 - The players in the digital transformation process of the PA
+   Figure 2 - The players in the digital transformation process of the PA
 
 Document structure
 ------------------

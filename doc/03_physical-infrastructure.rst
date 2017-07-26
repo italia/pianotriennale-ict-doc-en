@@ -44,7 +44,11 @@ Below, in paragraph 3.1 the relevant specifications to *data centres*
 and *clouds* will be presented and in paragraph 3.2 those relating to
 connectivity.
 
-|\\\\10.3.14.3\\translated\\projects\\2017\\2017-06-16-piano\_triennale-teamdigitale-17605664\\300\_delivery\_to\_customer\\Immagini\\ruben\\Imm\_21.jpg|
+.. figure:: media/figure5.png
+   :width: 100%
+
+   Figure 5 - Components of Physical Infrastructures
+
 
 Data centres and *cloud*
 ------------------------

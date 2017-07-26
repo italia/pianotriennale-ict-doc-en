@@ -29,9 +29,14 @@ ecosystem:
 
 -  Presents its services through APIs.
 
-|image7|\ The application of the rules defined in the Interoperability
+The application of the rules defined in the Interoperability
 Model within each ecosystem represents the common language that enables
 communication between ecosystems.
+
+.. figure:: media/figure7.png
+   :width: 100%
+
+   Figure 7 - Ecosystems
 
 The current situation
 ---------------------
