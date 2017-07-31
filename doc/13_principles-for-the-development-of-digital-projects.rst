@@ -7,7 +7,7 @@
 
    This means leaving behind some stylistic improvements and potential errors. However, this AI-augmented approach to translation allowed us to prepare this English version at a fraction of the cost and time of the legacy translation process.
    
-   Thanks to a `dedicated space on GitHub <https://github.com/italia/pianotriennale-ict-doc-en>`_, translation can be improved by the community with suggestions.
+   Visit the `Github repository <https://github.com/italia/pianotriennale-ict-doc-en>`_ dedicated to contribute with feedback and changes to the Three Year Plan for the Digital Transformation of the Public Administration.
 
 Principles for the development of digital projects
 ==================================================
