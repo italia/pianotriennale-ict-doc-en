@@ -7,6 +7,8 @@
    This means leaving behind some stylistic improvements and potential errors. However, this AI-augmented approach to translation allowed us to prepare this English version at a fraction of the cost and time of the legacy translation process (this translation was made in a few days including the human review; we didn’t publish it right away because we had to convert it to reStructuredText in order to share it on GitHub and we had a ton of things to do before that!).
 
    If you want to contribute with feedback and changes to the Three Year Plan for ICT in the Public Administration, visit the `Github repository <https://github.com/italia/pianotriennale-ict-doc-en>`_.
+   
+   If there are significant differences between the italian and the english version of the Three Year Plan, we remind you that only the italian version approved every year by the Italian Government has legal value.
 
 Annex 2 - Tools and resources for the implementation of the Plan
 ================================================================
