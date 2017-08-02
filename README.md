@@ -9,5 +9,5 @@ The name of the files contained in the doc folder related to the chapters of the
 ## Discussion forum on the topics related to the Three Year Plan
 [https://forum.italia.it/c/piano-triennale](https://forum.italia.it/c/piano-triennale)
 
-## English version of the Three Year Plan entire document
+## Full text of the Three Year Plan
 [https://pianotriennale-ict.readthedocs.io/en/latest](https://pianotriennale-ict.readthedocs.io/en/latest)
