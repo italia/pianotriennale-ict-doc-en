@@ -8,7 +8,7 @@
 
    If you want to contribute with feedback and changes to the Three Year Plan for ICT in the Public Administration, visit the `Github repository <https://github.com/italia/pianotriennale-ict-doc-en>`_.
    
-   If there are significant differences between the Italian and the English version of the Three Year Plan, we remind you that only the Italian version approved every year by the Italian Government has legal value.
+   We remind you that only the Italian version approved every year by the Italian Government has legal value.
 
 Data & Analytics Framework
 ==========================
