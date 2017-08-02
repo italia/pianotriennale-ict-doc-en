@@ -1,6 +1,8 @@
 # Three Year Plan for ICT in the Public Administration 2017-2019
 This repository contains the english version of the Three Year Plan for ICT in the Public Administration in reStructuredText
 
+The name of the files contained in the doc folder related to the chapters of the Three Year Plan is still in italian to preserve integration between the italian and the english ReadTheDocs version.
+
 ## Website of the Three Year Plan
 [https://pianotriennale-ict.italia.it](https://pianotriennale-ict.italia.it)
 
