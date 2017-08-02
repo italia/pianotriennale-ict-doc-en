@@ -8,4 +8,4 @@ This repository contains the english version of the Three Year Plan for ICT in t
 [https://forum.italia.it/c/piano-triennale](https://forum.italia.it/c/piano-triennale)
 
 ## English version of the Three Year Plan entire document
-[https://pianotriennale-ict.readthedocs.io/](https://pianotriennale-ict.readthedocs.io/en/latest)
+[https://pianotriennale-ict.readthedocs.io/en/latest](https://pianotriennale-ict.readthedocs.io/en/latest)
