@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Three-Year Plan for IT in Public Administration <br />2017 - 2019'
+settings_project_name = 'Three-Year Plan for ICT in Public Administration <br />2017 - 2019'
 settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
@@ -93,14 +93,14 @@ else:
         'css_files': [
             '_static/css/theme.css',
         ],
-        'reference_project': 'Three-Year Plan for IT in Public Administration 2017 - 2019',
+        'reference_project': 'Three-Year Plan for ICT in Public Administration 2017 - 2019',
         'reference_project_url': 'https://pianotriennale-ict.italia.it/',
     }
 
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = "Three-Year Plan for IT in Public Administration 2017 - 2019"
+html_title = "Three-Year Plan for ICT in Public Administration 2017 - 2019"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
