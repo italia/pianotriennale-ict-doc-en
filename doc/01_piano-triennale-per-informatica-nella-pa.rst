@@ -385,7 +385,7 @@ The document also contains the following annexes:
    8th January 2014 -
    `*http://www.agid.gov.it/notizie/2014/02/14/pubblicato-gazzetta-ufficiale-lo-statuto-dellagid* <http://www.agid.gov.it/notizie/2014/02/14/pubblicato-gazzetta-ufficiale-lo-statuto-dellagid>`__
 
-   Law no. 208 of 28th December 2016 (2016 Stability Law) also provides
+   Law no. 208 of 28th December 2015 (2016 Stability Law) also provides
    for the Agency for Digital Italy (AgID) to prepare - on behalf of the
    Presidency of the Council of Ministers - the three-year Plan
    (hereinafter referred to as the Plan) guiding the digital
