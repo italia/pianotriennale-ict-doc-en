@@ -56,7 +56,7 @@ The current situation
 In order to ensure the implementation of the 2014-2020 Digital Growth
 Strategy, AgID has provided a first definition of ecosystems based on
 the classification `*Missions and
-Programs* <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/%20MissioniProgrammi-2015_10.pdf>`__\  [68]_
+Programs* <http://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/e-GOVERNME1/Contabilit/Pubblicazioni/MissionieProgrammi/MissioniProgrammi-2015_10.pdf>`__\  [68]_
 as indicated in the Law of 28 December 2015, n. 209 (Budget Law 2016).
 
 Based on the above criteria, the ecosystems listed in the following
