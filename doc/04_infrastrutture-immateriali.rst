@@ -916,7 +916,7 @@ with the PA Interoperability Model.
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Players       | AgID, PA                                                                                                                                                                                                                                                                                                                              |
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Description   | Public Administrations must send to AgID through the `***adhesion portal*** <http://portal.pagopa.gov.it>`__\  [62]_, the activation and integration plans of the PagoPA enabling platform in their application solutions.                                                                                                            |
+| Description   | Public Administrations must send to AgID through the `***adhesion portal*** <https://portal.pagopa.gov.it/pda-fa-portal/>`__\  [62]_, the activation and integration plans of the PagoPA enabling platform in their application solutions.                                                                                                            |
 |               |                                                                                                                                                                                                                                                                                                                                       |
 |               | Administrations that by June 2017 have not yet completed their membership of the PagoPA system will have to adopt, according to subsidiarity logic, already available solutions implemented by other administrations (e.g. regional or other government platforms), which offer the role of intermediary as provided by the system.   |
 +---------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -1279,7 +1279,7 @@ with the PA Interoperability Model.
    `*www.spid.gov.it* <https://www.spid.gov.it/>`__.
 
 .. [62]
-   `*http://portal.pagopa.gov.it* <http://portal.pagopa.gov.it>`__
+   `*https://portal.pagopa.gov.it/pda-fa-portal/* <https://portal.pagopa.gov.it/pda-fa-portal/>`__
 
 .. [63]
    `*http://www.fatturapa.gov.it/export/fatturazione/it/sdi.htm* <http://www.fatturapa.gov.it/export/fatturazione/it/sdi.htm>`__
