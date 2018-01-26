@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Three-Year Plan for ICT in Public Administration <br />2017 - 2019'
+settings_project_name = 'Three-Year Plan for ICT in Public Administration 2017 - 2019'
 settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
