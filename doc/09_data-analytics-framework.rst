@@ -56,7 +56,7 @@ and Interoperability Model, in Intangible Infrastructures and
 consistency with the requirements related to the Monitoring Functions of
 the Plan.
 
-The DAF is based on a **big date platform**, composed of: a *data lake,*
+The DAF is based on a **big data platform**, composed of: a *data lake,*
 a set of *data engines* and tools for data communication.
 
 In the *data lake* personal data such as: (i) data bases that PA
