@@ -2,3 +2,4 @@ html/
 _build/
 docs/
 Makefile
+.env
