@@ -10,4 +10,4 @@ The name of the files contained in the doc folder related to the chapters of the
 [https://forum.italia.it/c/piano-triennale](https://forum.italia.it/c/piano-triennale)
 
 ## Full text of the Three Year Plan
-[https://pianotriennale-ict.readthedocs.io/en/latest](https://pianotriennale-ict.readthedocs.io/en/latest)
+[https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/](https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc-en/)
